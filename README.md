@@ -4,4 +4,5 @@ I enrolled in a 2 month internship at MirAi school of technology. This is a repo
 2. **APP.PY** is where assigment 1 which was to design a small form website that printed a success message and a system check message with the number of tokens using streamlit in python. 
 3. **SES3.PY** is the code file of session 3. we developed a interface for an ai bot with a personality of your choice that you can talk to. In addition to this , there was also a .env file which had my api key under the variable api_key.
 4. **multiperonality_chatbot.py** is a streamlit app which has diffrent personalities tha can be set at diffrent intensities. These 2 functions are in a sidebar. This updated version also remembers the previous conversation. again the api key was in a dotenv file under the variable "api_key".
-5. 
+5. **ses4.py** is the code where we implied the api of pollination to generate a image.
+6. **ASSIGMENT3.PY** contains the code for assigment 3. Its instructions are also in the same file in the form of comments.
