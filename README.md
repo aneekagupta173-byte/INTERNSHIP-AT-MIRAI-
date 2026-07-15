@@ -6,5 +6,6 @@ I enrolled in a 2 month internship at MirAi school of technology. This is a repo
 4. **multiperonality_chatbot.py** is a streamlit app which has diffrent personalities tha can be set at diffrent intensities. These 2 functions are in a sidebar. This updated version also remembers the previous conversation. again the api key was in a dotenv file under the variable "api_key".
 5. **ses4.py** is the code where we implied the api of pollination to generate a image.
 6. **ASSIGMENT3.PY** contains the code for assigment 3. Its instructions are also in the same file in the form of comments.
-7. **
-8. **ASSIGMENT4** is a folder containg a streamlit image generator app that can enhance image and generate random images. 
+7. **ses5.py** is the ocde file of session file where we update the ses4 app. 
+8. **ASSIGMENT4** is a folder containg a streamlit image generator app that can enhance image and generate random images. It can also change the height and width of the image.The same folder also contains a video of the project running.
+9. 
