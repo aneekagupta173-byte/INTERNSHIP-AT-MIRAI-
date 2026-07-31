@@ -1,5 +1,8 @@
 # INTERNSHIP-AT-MIRAI-
-I enrolled in a 2 month internship at MirAi school of technology. This is a repository of every project i made and learnt through it. 
+I was selected for a 2 month internship at MirAi school of technology. This is a repository is a diary of  every piece of code i wrote, implied or used in its duration. 
+
+
+##WALK-THROUGH-MY-FILES
 1. **Calculator** using streamlit in python - Using the library of streamlit, i made a small webpage of a calculator. it is basic. it allowed me to learn the number input function, the select box function and the tittle and write functions as well.
 2. **APP.PY** is where assignment 1 which was to design a small form website that printed a success message and a system check message with the number of tokens using streamlit in python. 
 3. **SES3.PY** is the code file of session 3. we developed a interface for an ai bot with a personality of your choice that you can talk to. In addition to this , there was also a .env file which had my api key under the variable api_key.
