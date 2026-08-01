@@ -1,5 +1,5 @@
 # INTERNSHIP-AT-MIRAI-
-I was selected for a 2 month internship at MirAi school of technology. This is a repository is a diary of  every piece of code i wrote, implied or used in its duration. 
+I was selected for a 2 month internship at MirAi school of technology. This is a repository is a diary of  every piece of code i wrote, implied , learned or used in its duration. 
 
 
 ## WALK-THROUGH-MY-FILES
@@ -13,4 +13,4 @@ I was selected for a 2 month internship at MirAi school of technology. This is a
 8. **ASSIGMENT4** is a folder containing a streamlit image generator app that can enhance image and generate random images. It can also change the height and width of the image.The same folder also contains a video of the project running.
 9. **ASSIGNMENT5** is a python file containing a small game made using Python, Streamlit, Gemini API, Pollinations API, Session State, Basic API integration
 10. **ses8.py** contains session 8 code to convert text into speech using streamlit library streamlit_mic_recorder --> speech_to_text.
-11. 
+11. **ses10.py** is the code file of session 8 where we learnt about streamlit features like graceful handling, st.toast function, forms in streamlit.
