@@ -14,4 +14,6 @@ I was selected for a 2 month internship at MirAi school of technology. This is a
 9. **ASSIGNMENT5** is a python file containing a small game made using Python, Streamlit, Gemini API, Pollinations API, Session State, Basic API integration
 10. **ses8.py** contains session 8 code to convert text into speech using streamlit library streamlit_mic_recorder --> speech_to_text.
 11. **ses10.py** is the code file of session 8 where we learnt about streamlit features like graceful handling, st.toast function, forms in streamlit.
-12. **ASSIGNMENT7.py** is a dashboard that sees into your screentime, give you a graph a small analysis and you can ask questions to gemini for digital wellbeing. 
+12. **ASSIGNMENT7.py** is a dashboard that sees into your screentime, give you a graph a small analysis and you can ask questions to gemini for digital wellbeing.
+13. **ses11** is a folder having the code files of session 11 where we started using html, css and javascript.
+14. 
